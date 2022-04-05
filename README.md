@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eminalparslan
-- 👀 I’m interested in machine learning, artificial intelligence, and data mining
+- 👀 I’m interested in machine learning and artificial intelligence
 - 🌱 I’m currently working towards a bachelor degree in computer science at the University of Texas at Austin
 - 📫 You can reach me through my email: eminalp@utexas.edu
 
